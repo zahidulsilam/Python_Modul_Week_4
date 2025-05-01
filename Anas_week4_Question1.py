@@ -9016,7 +9016,7 @@
       "Yazar": "Miraç Çağrı Aktaş"
    },
    {
-      "Barkod": 9789751042125,
+      "Barkod": 9789751042125,  
       "Dil": "Türkçe",
       "Fiyat": 18.2,
       "Kitap_Adi": "Balıkçı ve Oğlu",
